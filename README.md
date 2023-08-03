@@ -13,7 +13,21 @@ I graduated with a bachelors degree of science in information technology from Ug
 Currently working on a Node js, Mongodb, Express JS, CSS, HTML and CSS farmers management information system project.
 
 ## Programming Languages
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) |
+|
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  </a>
+</div>|
 | :---: | :---: | :---: | :---: |
 | Python | JavaScript | React | Node.js |
 
