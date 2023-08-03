@@ -28,8 +28,7 @@ Currently working on a Node js, Mongodb, Express JS, CSS, HTML and CSS farmers m
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
   </a>
 </div>|
-| :---: | :---: | :---: | :---: |
-| Python | JavaScript | React | Node.js |
+
 
 
 ## My Interests
