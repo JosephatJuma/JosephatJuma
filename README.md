@@ -1,6 +1,6 @@
 # Hello, I'm Josephat Juma! 👋
 
-![Profile Banner](https://twitter.com/JuJosephat/header_photo)
+![Profile Banner](https://www.linkedin.com/in/josephat-juma-79515521b/overlay/background-image/)
 
 Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full Stack. Here, you'll find some of my projects and contributions that I'm excited to share with the world.
 
