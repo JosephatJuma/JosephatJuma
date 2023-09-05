@@ -16,7 +16,7 @@ I am currently a software developer apprentice at Refactory Uganda. Working on a
 I values clean code and clean architecture and implements software development using SOLID principles and software design patterns to create highly performant, testable and readable code using JavaScript and TypeScript.
 
 
-## Programming Languages, Tools and Framworks
+## Programming Languages, Tools and Frameworks
 
 <div align="center" style="background-color:black;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js Logo">
@@ -75,10 +75,6 @@ I values clean code and clean architecture and implements software development u
 - Nest.js
 - Express.js
 
-Below are some logos/images representing these tools and frameworks:
-Feel free
-
-
 ## My Interests
 - Coding
 - UI/UX Designing
@@ -100,14 +96,13 @@ Am Currently a member Copse (Community of Practitionors in Software Enginnerring
 
 We can connect on Socail media on these handles
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/josephat-juma-79515521b/)
+- LinkedIn: <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50"/>[Your LinkedIn Profile](https://www.linkedin.com/in/josephat-juma-79515521b/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/JuJosephat)
 
 
 ## Get in Touch
 
 - Email: jumajosephat61@gmail.com.com
-- 
 - Feel free to get in touch!
 
 ---
