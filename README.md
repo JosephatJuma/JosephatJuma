@@ -28,10 +28,10 @@ I values clean code and clean architecture and implements software development u
   <a href="https://reactjs.org/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener">
+ 
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  </a>
-  ![npm](https://img.shields.io/npm/:interval/:packageName)
+ 
+  
 
 </div>
 
