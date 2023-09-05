@@ -18,7 +18,7 @@ I values clean code and clean architecture and implements software development u
 
 ## Programming Languages, Tools and Framworks
 
-<div align="center">
+<div align="center" style="background-color:black;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" alt="TypeScript Logo">
