@@ -19,19 +19,6 @@ I values clean code and clean architecture and implements software development u
 ## Programming Languages
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
- 
-  </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" alt="TypeScript Logo">
