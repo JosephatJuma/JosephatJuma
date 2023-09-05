@@ -34,7 +34,52 @@ I values clean code and clean architecture and implements software development u
   </a>
 
 </div>
+### Programming Languages:
+- Node.js
+- JavaScript
+- TypeScript
+- PHP
 
+### Front-end Frameworks & Libraries:
+- React
+- React Native
+- Redux
+- Vue.js
+- HTML
+- CSS
+- Material UI
+
+### Package Managers:
+- npm
+- yarn
+
+### Mobile App Development:
+- Expo
+
+### Backend Frameworks:
+- Nest.js
+- Express.js
+
+Below are some logos/images representing these tools and frameworks:
+
+![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![React Native Logo](https://reactnative.dev/img/header_logo.svg)
+![Redux Logo](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png)
+![Vue.js Logo](https://vuejs.org/images/logo.png)
+![HTML Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
+![CSS Logo](https://www.w3.org/html/logo/downloads/CSS3_Logo_512.png)
+![Material UI Logo](https://material-ui.com/static/logo.png)
+![Npm Logo](https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg)
+![Yarn Logo](https://classic.yarnpkg.com/favicon.ico)
+![Expo Logo](https://expo.dev/static/favicon.png)
+![Nest.js Logo](https://nestjs.com/img/logo_text.svg)
+![Express.js Logo](https://raw.githubusercontent.com/expressjs/expressjs.com/master/public/images/logo.png)
+
+Feel free
 
 
 ## My Interests
