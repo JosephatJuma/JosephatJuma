@@ -98,7 +98,7 @@ We can connect on Socail media on these handles
 
 <div align="center">
 
-[<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50" alt="LinkedIn" />](https://www.linkedin.com/in/josephat-juma-79515521b/)[<img src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="Twitter"  width="50"/>](https://twitter.com/JuJosephat)
+[<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50" alt="LinkedIn" />](https://www.linkedin.com/in/josephat-juma-79515521b/) [<img src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="Twitter"  width="50"/>](https://twitter.com/JuJosephat)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="GitHub"  width="50"/>](https://github.com/JosephatJuma) 
 </div> 
 
