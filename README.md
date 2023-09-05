@@ -1,6 +1,7 @@
 # Hello, I'm Josephat Juma! 👋
 
-![Banner](https://github.com/JosephatJuma/JosephatJuma/blob/main/Screenshot1.png)
+![Banner](https://github.com/JosephatJuma/JosephatJuma/blob/main/banner.jpg)
+
 
 Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full Stack. Here, you'll find some of my projects and contributions that I'm excited to share with the world.
 
