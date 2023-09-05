@@ -40,7 +40,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="100" alt="MongoDB Logo">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="PostgreSQL Logo">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="100" alt="Firebase Logo">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZMZjLoXY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1d6if04a3fq03cbia43.png" width="100" alt="Prisma Logo">
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="100" alt="Prisma Logo">
 </div>
 
 ### Programming Languages:
