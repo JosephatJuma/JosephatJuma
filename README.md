@@ -28,7 +28,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="100" alt="Redux Logo">
 <img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="100" alt="HTML Logo">
-<img src="https://www.w3.org/html/logo/downloads/CSS3_Logo_512.png" width="100" alt="CSS Logo">
+<img src="https://www.w3.org/Style/CSS/logos/REC-CSS-logo-20180731.svg" width="100" alt="CSS Logo">
 <img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
 <img src="https://classic.yarnpkg.com/favicon.ico" width="100" alt="Yarn Logo">
