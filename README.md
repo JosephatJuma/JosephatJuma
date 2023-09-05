@@ -29,6 +29,8 @@ I values clean code and clean architecture and implements software development u
 <img src="https://vuejs.org/images/logo.png" width="60"  alt="Vue.js Logo">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="60"  alt="HTML Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60"  alt="CSS Logo">
+  <img src="https://miro.medium.com/v2/resize:fit:506/1*XQrm5n6_iX2mY93lT4d4cA.png" width="60"  alt="Pug">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="60"  alt="Bootstrap">
 <img src="https://material-ui.com/static/logo.png" width="60"  alt="Material UI Logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" width="60"  alt="Vite Logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60"  alt="Npm Logo" />
