@@ -96,7 +96,7 @@ Am Currently a member Copse (Community of Practitionors in Software Enginnerring
 
 We can connect on Socail media on these handles
 
-- LinkedIn: <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50"/>[Your LinkedIn Profile](https://www.linkedin.com/in/josephat-juma-79515521b/)
+- LinkedIn: [<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50"/>](https://www.linkedin.com/in/josephat-juma-79515521b/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/JuJosephat)
 
 
