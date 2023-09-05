@@ -80,8 +80,6 @@ Feel free
 
 ### [Task Manager](https://github.com/JosephatJuma/react_node_task_manager)
 
-![Project 1 Screenshot](https://your-image-url.com/project1-screenshot.png)
-
 Description
 
 ## Open Source Contributions
