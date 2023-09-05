@@ -32,15 +32,16 @@ I values clean code and clean architecture and implements software development u
 <img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" width="100" alt="Vite Logo/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100"  height="100" alt="Npm Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png" width="100" alt="Yarn Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png" width="100" height="100" alt="Yarn Logo">
 <img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="100" height="100" alt="Expo Logo">
 <img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" alt="Nest.js Logo">
-<img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
+<img src="https://expressjs.com/images/express-facebook-share.png" width="100" height="100" alt="Express.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100"  height="100" alt="MySQL Logo">
 <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="100" alt="MongoDB Logo">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="PostgreSQL Logo">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="100" alt="Firebase Logo">
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="100" alt="Prisma Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git Logo" width="100" height="100"/>
 </div>
 
 ### Programming Languages:
