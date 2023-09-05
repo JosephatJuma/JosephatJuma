@@ -33,7 +33,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
 <img src="https://classic.yarnpkg.com/favicon.ico" width="100" alt="Yarn Logo">
 <img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="100" alt="Expo Logo">
-<img src="https://nestjs.com/img/logo_text.svg" width="100" alt="Nest.js Logo">
+<img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" alt="Nest.js Logo">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100" alt="MySQL Logo">
 <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="100" alt="MongoDB Logo">
