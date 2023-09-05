@@ -36,7 +36,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" alt="Nest.js Logo">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100" alt="MySQL Logo">
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="100" alt="MongoDB Logo">
+<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="100" alt="MongoDB Logo">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="PostgreSQL Logo">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="100" alt="Firebase Logo">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZMZjLoXY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1d6if04a3fq03cbia43.png" width="100" alt="Prisma Logo">
