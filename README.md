@@ -7,11 +7,14 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
 
 ## About Me
 
-Software developer with experience of developing applications in React, React Native, Vanilla JS, Vue Js, MySQL, PHP, Firebase, MongoDB, Node.js, Express.js. I have passion for developing user-friendly and innovative applications and, highly motivated with strong problem solving and analytical skills. I am also an excellent communicator and team player.
+I am a Software developer with experience of developing applications in React, React Native, Vanilla JS, Vue Js, MySQL, PostgreSQL PHP, Firebase, MongoDB, Node.js, Express.js and Nest JS. Passionate about developing user-friendly and innovative applications and, highly motivated with strong problem solving and analytical skills. An enthusiast of Information technology as a tool for transforming and digitizing the economy while addressing challenges with tech solutions.
 
-I graduated with a bachelors degree of science in information technology from Uganda Christian University, and also attended Refactory Catalyst program with JavaScript track and earned a certificate in software engineering.
+I graduated with a bachelors degree of science in information technology from Uganda Christian University and obtained a second upper class degree with honours, and also attended Refactory Catalyst program with JavaScript track and earned a certificate in software engineering under the MTN ACE TECH Program in 2023.
 
-Currently working on a Node js, Mongodb, Express JS, CSS, HTML and CSS farmers management information system project.
+I am currently a software developer apprentice at Refactory Uganda. Working on a project in Nest JS, React JS and PostgreSQL database using Prisma as an ORM.
+
+I values clean code and clean architecture and implements software development using SOLID principles and software design patterns to create highly performant, testable and readable code using JavaScript and TypeScript.
+
 
 ## Programming Languages
 |
