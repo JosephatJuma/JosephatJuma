@@ -30,12 +30,13 @@ I values clean code and clean architecture and implements software development u
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="100" alt="HTML Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100" alt="CSS Logo">
 <img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" width="100" alt="Vite Logo/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100"  height="100" alt="Npm Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png" width="100" alt="Yarn Logo">
-<img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="100" alt="Expo Logo">
+<img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="100" height="100" alt="Expo Logo">
 <img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" alt="Nest.js Logo">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100" alt="MySQL Logo">
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100"  height="100" alt="MySQL Logo">
 <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="100" alt="MongoDB Logo">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="PostgreSQL Logo">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="100" alt="Firebase Logo">
