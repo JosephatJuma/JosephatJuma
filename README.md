@@ -97,10 +97,9 @@ Am Currently a member Copse (Community of Practitionors in Software Enginnerring
 We can connect on Socail media on these handles
 
 <div align="center">
-  [<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50" alt="LinkedIn" />](https://www.linkedin.com/in/josephat-juma-79515521b/)
-
-  [<img src="https://www.businessofapps.com/wp-content/uploads/2023/07/twitter-x-e1690183153269.webp" alt="Twitter"  width="50"/>](https://twitter.com/JuJosephat)
+[<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50" alt="LinkedIn" />](https://www.linkedin.com/in/josephat-juma-79515521b/)
   
+[<img src="https://www.businessofapps.com/wp-content/uploads/2023/07/twitter-x-e1690183153269.webp" alt="Twitter"  width="50"/>](https://twitter.com/JuJosephat) 
 </div> 
 
 
