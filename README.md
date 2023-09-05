@@ -17,7 +17,7 @@ I values clean code and clean architecture and implements software development u
 
 
 ## Programming Languages
-|
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -31,7 +31,9 @@ I values clean code and clean architecture and implements software development u
   <a href="https://nodejs.org/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
   </a>
-</div>|
+  ![npm](https://img.shields.io/npm/:interval/:packageName)
+
+</div>
 
 
 
