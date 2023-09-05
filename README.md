@@ -35,9 +35,13 @@ I values clean code and clean architecture and implements software development u
 <img src="https://docs.expo.dev/static/images/favicon.png" width="100" alt="Expo Logo">
 <img src="https://nestjs.com/img/logo_text.svg" width="100" alt="Nest.js Logo">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
-
-
+<img src="https://logos-download.com/wp-content/uploads/2016/04/MySQL_logo.png" width="100" alt="MySQL Logo">
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="100" alt="MongoDB Logo">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="PostgreSQL Logo">
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="100" alt="Firebase Logo">
+<img src="https://www.prisma.io/images/logo.svg" width="100" alt="Prisma Logo">
 </div>
+
 ### Programming Languages:
 - Node.js
 - JavaScript
@@ -59,6 +63,7 @@ I values clean code and clean architecture and implements software development u
 
 ### Mobile App Development:
 - Expo
+- React Native
 
 ### Backend Frameworks:
 - Nest.js
