@@ -32,6 +32,23 @@ I values clean code and clean architecture and implements software development u
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
  
   </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" alt="TypeScript Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="100" alt="PHP Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React Logo">
+<img src="https://reactnative.dev/img/header_logo.svg" width="100" alt="React Native Logo">
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="100" alt="Redux Logo">
+<img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="100" alt="HTML Logo">
+<img src="https://www.w3.org/html/logo/downloads/CSS3_Logo_512.png" width="100" alt="CSS Logo">
+<img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
+<img src="https://classic.yarnpkg.com/favicon.ico" width="100" alt="Yarn Logo">
+<img src="https://expo.dev/static/favicon.png" width="100" alt="Expo Logo">
+<img src="https://nestjs.com/img/logo_text.svg" width="100" alt="Nest.js Logo">
+<img src="https://raw.githubusercontent.com/expressjs/expressjs.com/master/public/images/logo.png" width="100" alt="Express.js Logo">
+
 
 </div>
 ### Programming Languages:
@@ -61,25 +78,6 @@ I values clean code and clean architecture and implements software development u
 - Express.js
 
 Below are some logos/images representing these tools and frameworks:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" alt="TypeScript Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="100" alt="PHP Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React Logo">
-<img src="https://reactnative.dev/img/header_logo.svg" width="100" alt="React Native Logo">
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="100" alt="Redux Logo">
-<img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="100" alt="HTML Logo">
-<img src="https://www.w3.org/html/logo/downloads/CSS3_Logo_512.png" width="100" alt="CSS Logo">
-<img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
-<img src="https://classic.yarnpkg.com/favicon.ico" width="100" alt="Yarn Logo">
-<img src="https://expo.dev/static/favicon.png" width="100" alt="Expo Logo">
-<img src="https://nestjs.com/img/logo_text.svg" width="100" alt="Nest.js Logo">
-<img src="https://raw.githubusercontent.com/expressjs/expressjs.com/master/public/images/logo.png" width="100" alt="Express.js Logo">
-
-
 Feel free
 
 
