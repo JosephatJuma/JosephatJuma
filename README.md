@@ -32,10 +32,9 @@ I values clean code and clean architecture and implements software development u
 <img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
 <img src="https://classic.yarnpkg.com/favicon.ico" width="100" alt="Yarn Logo">
-<img src="https://expo.dev/static/favicon.png" width="100" alt="Expo Logo">
+<img src="https://docs.expo.dev/static/images/favicon.png" width="100" alt="Expo Logo">
 <img src="https://nestjs.com/img/logo_text.svg" width="100" alt="Nest.js Logo">
-<img src="https://raw.githubusercontent.com/expressjs/expressjs.com/master/public/images/logo.png" width="100" alt="Express.js Logo">
-<img src=" >
+<img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
 
 
 </div>
