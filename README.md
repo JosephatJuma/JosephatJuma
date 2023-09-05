@@ -32,7 +32,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo">
 <img src="https://classic.yarnpkg.com/favicon.ico" width="100" alt="Yarn Logo">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kFX2pWQs--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" width="100" alt="Expo Logo">
+<img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="100" alt="Expo Logo">
 <img src="https://nestjs.com/img/logo_text.svg" width="100" alt="Nest.js Logo">
 <img src="https://expressjs.com/images/express-facebook-share.png" width="100" alt="Express.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100" alt="MySQL Logo">
