@@ -31,7 +31,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100" alt="CSS Logo">
 <img src="https://material-ui.com/static/logo.png" width="100" alt="Material UI Logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" width="100" alt="Vite Logo/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100"  height="100" alt="Npm Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="Npm Logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png" width="100" height="100" alt="Yarn Logo">
 <img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="100" height="100" alt="Expo Logo">
 <img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" alt="Nest.js Logo">
