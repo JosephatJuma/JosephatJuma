@@ -46,6 +46,7 @@ I values clean code and clean architecture and implements software development u
 <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" width="50"  alt="Docker"/>
 <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/jenkins_image.png" width="50"  alt="Jenkins"/>
  <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="50"  alt="GitHub Actions"/>
+   <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" width="50"  alt="Figma"/>
 </div>
 
 ### Programming Languages:
