@@ -43,6 +43,8 @@ I values clean code and clean architecture and implements software development u
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="100" alt="Prisma Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git Logo" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" width="100" alt="GitHub"/>
+<img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" width="100" alt="Docker"/>
+  <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/jenkins_image.png" width="100" alt="Jenkins"/>
 </div>
 
 ### Programming Languages:
