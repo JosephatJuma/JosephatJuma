@@ -16,7 +16,7 @@ I am currently a software developer apprentice at Refactory Uganda. Working on a
 I values clean code and clean architecture and implements software development using SOLID principles and software design patterns to create highly performant, testable and readable code using JavaScript and TypeScript.
 
 
-## Programming Languages
+## Programming Languages, Tools and Framworks
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js Logo">
