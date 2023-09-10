@@ -17,7 +17,7 @@ I values clean code and clean architecture and implements software development u
 
 ### My GitHub Stats
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?JosephatJuma&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact)
 
 ## Programming Languages, Tools and Frameworks
 
