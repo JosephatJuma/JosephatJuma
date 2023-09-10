@@ -15,6 +15,9 @@ I am currently a software developer apprentice at Refactory Uganda. Working on a
 
 I values clean code and clean architecture and implements software development using SOLID principles and software design patterns to create highly performant, testable and readable code using JavaScript and TypeScript.
 
+### My GitHub Stats
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?JosephatJuma&layout=compact)
 
 ## Programming Languages, Tools and Frameworks
 
