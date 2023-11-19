@@ -99,7 +99,7 @@ Description
 
 ## Open Source Contributions
 
-Am Currently a member Copse (Community of Practitionors in Software Enginnerring) and willing to contribute to any open source project.
+Am Currently a member Copse (Community of Practitionors in Software Engineering) and willing to contribute to any open source project.
 
 ## Let's Connect
 
