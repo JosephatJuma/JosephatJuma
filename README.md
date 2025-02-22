@@ -1,6 +1,8 @@
 # Hello, I'm Josephat Juma! 👋
 
-![Josephat Profile Banner(1)](https://github.com/user-attachments/assets/922dc737-54ed-4df9-82ab-b2b0ccc25f5d)
+![Josephat Profile Banner(1)(1)](https://github.com/user-attachments/assets/b7cc4245-d60a-4160-aee4-9815a3809722)
+
+
 
 
 
