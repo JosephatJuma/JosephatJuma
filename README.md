@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
 <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60"  alt="MongoDB Logo">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60"  alt="PostgreSQL Logo">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="60"  alt="Firebase Logo">
+<img src="https://blog.desdelinux.net/wp-content/uploads/2020/03/CouchDB-logo-1.png"  width="60"  alt="Couch DB" />
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="60"  alt="Prisma Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git Logo" width="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" width="60"  alt="GitHub"/>
@@ -49,6 +50,12 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
   <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png"  width="60"  alt="Trello" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/800px-Jira_Logo.svg.png"  width="60"  alt="Jira" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLG9-qs8xtQkO-_DAno-Shyngpq8NJp9UGA&s"  width="60"  alt="Apache Superset" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrJ1-zxWcvafS70eA0b37sxk1-AGkP6PRJg&s"  width="60"  alt="AWS" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fUYZToZjZ6b4tBJ9HsMT2DuHZqwvV0ISEw&s"  width="60"  alt="Azure" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJg6--QiJrStvhBzd0RrjQj0qgWCPscSaKdg&s"  width="60"  alt="Google Cloud" />
+   <img src="https://miro.medium.com/v2/resize:fit:1200/0*mjG1YdoT7xPcnznN.jpg"  width="60"  alt="Nginx" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*pnSzmFJRCJztS7tkSJXYuQ.jpeg"  width="60"  alt="Supabase" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*Qqqd7UsfFDPL7WXh.jpeg"  width="60"  alt="Linux" />
 </div>
 
 ## About Me
