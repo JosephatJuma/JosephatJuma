@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
 <img src="https://reactnative.dev/img/header_logo.svg" width="60"  alt="React Native Logo">
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="60"  alt="Redux Logo">
 <img src="https://vuejs.org/images/logo.png" width="60"  alt="Vue.js Logo">
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nqx_sCd8ZIeIcodS0sfeMKJ8rVTslmQHUe_udwGNH2Pg=s900-c-k-c0x00ffffff-no-rj" width="60"  alt="Flutter">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="60"  alt="HTML Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60"  alt="CSS Logo">
   <img src="https://miro.medium.com/v2/resize:fit:506/1*XQrm5n6_iX2mY93lT4d4cA.png" width="60"  alt="Pug">
