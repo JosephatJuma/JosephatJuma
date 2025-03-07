@@ -7,17 +7,6 @@
 
 
 Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full Stack. Here, you'll find some of my projects and contributions that I'm excited to share with the world.
-
-## About Me
-
-I am a Software developer with experience of developing applications in React, React Native, Vanilla JS, Vue Js, MySQL, PostgreSQL PHP, Firebase, MongoDB, Node.js, Express.js and Nest JS. Passionate about developing user-friendly and innovative applications and, highly motivated with strong problem solving and analytical skills. An enthusiast of Information technology as a tool for transforming and digitizing the economy while addressing challenges with tech solutions.
-
-I graduated with a bachelors degree of science in information technology from Uganda Christian University and obtained a second upper class degree with honours, and also attended Refactory Catalyst program with JavaScript track and earned a certificate in software engineering under the MTN ACE TECH Program in 2023.
-
-I am currently a software developer apprentice at Refactory Uganda. Working on a project in Nest JS, React JS and PostgreSQL database using Prisma as an ORM.
-
-I values clean code and clean architecture and implements software development using SOLID principles and software design patterns to create highly performant, testable and readable code using JavaScript and TypeScript.
-
 <!-- Your GitHub stats -->
 
 ### My GitHub Stats
@@ -61,49 +50,29 @@ I values clean code and clean architecture and implements software development u
   <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png"  width="60"  alt="Trello" />
 </div>
 
-### Programming Languages:
-- Node.js
-- JavaScript
-- TypeScript
-- PHP
+## About Me
+I am a passionate and results-driven Software Developer with experience in building scalable and user-friendly applications using React, React Native, Vue.js, Vanilla JS, Node.js, Express.js, and NestJS. My backend expertise spans PostgreSQL, MySQL, MongoDB, Firebase, and PHP, leveraging Prisma ORM for efficient database management.
 
-### Front-end Frameworks & Libraries:
-- React
-- React Native
-- Redux
-- Vue.js
-- HTML
-- CSS
-- Material UI
+With a strong foundation in software engineering principles, I focus on writing clean, maintainable, and testable code, adhering to SOLID principles and software design patterns. I am highly motivated, with strong problem-solving and analytical skills, and I thrive on using technology to digitize economies and solve real-world challenges.
+Education & Certifications
 
-### Package Managers:
-- npm
-- yarn
+🎓 BSc in Information Technology – Uganda Christian University (Second Upper Class Honours)
+📜 Software Engineering Certification – Refactory Catalyst Program (MTN ACE TECH Program, 2023)
+Experience
 
-### Mobile App Development:
-- Expo
-- React Native
+🚀 Software Developer Apprentice – Refactory Uganda
 
-### Backend Frameworks:
-- Nest.js
-- Express.js
+    Building a NestJS, ReactJS, and PostgreSQL application using Prisma ORM.
+    Implementing clean architecture to enhance code maintainability and performance.
 
-## My Interests
-- Coding
-- UI/UX Designing
-- Traveling
-- Playing chess
+## Technical Skills
 
-## My Projects
+✅ Frontend: React, React Native, Vue.js, JavaScript, TypeScript
+✅ Backend: Node.js, Express.js, NestJS, PHP
+✅ Databases: PostgreSQL, MySQL, Firebase, MongoDB
+✅ Tools & DevOps: Prisma, Docker, Git, CI/CD, Superset
 
-
-### [Task Manager](https://github.com/JosephatJuma/react_node_task_manager)
-
-Description
-
-## Open Source Contributions
-
-Am Currently a member Copse (Community of Practitionors in Software Engineering) and willing to contribute to any open source project.
+I believe in the power of technology to transform industries, and I’m always eager to learn, collaborate, and build innovative solutions. Let's connect and create something impactful!
 
 ## Let's Connect
 
