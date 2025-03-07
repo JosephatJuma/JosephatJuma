@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="60"  alt="PHP Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60"  alt="React Logo">
 <img src="https://reactnative.dev/img/header_logo.svg" width="60"  alt="React Native Logo">
-  
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="60"  alt="Redux Logo">
 <img src="https://vuejs.org/images/logo.png" width="60"  alt="Vue.js Logo">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="60"  alt="HTML Logo">
@@ -35,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png" width="60"  alt="Yarn Logo">
 <img src="https://www.inapps.net/wp-content/uploads/2022/05/developing-building-testing-and-deploying-react-native-apps-14-638.jpg" width="60"  alt="Expo Logo">
 <img src="https://docs.nestjs.com/assets/logo-small.svg" width="60"  alt="Nest.js Logo">
-<img src="https://expressjs.com/images/express-facebook-share.png" width="60"  alt="Express.js Logo">
+<img src="https://miro.medium.com/v2/resize:fit:900/1*ZIWWlLt8O9w3-spKcqI4mA.png" width="60"  alt="Express.js Logo">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="60"   alt="MySQL Logo">
 <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60"  alt="MongoDB Logo">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60"  alt="PostgreSQL Logo">
@@ -48,6 +47,8 @@ Welcome to my GitHub profile! I'm passionate about Software Enginerring, Full St
  <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="60"  alt="GitHub Actions"/>
    <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" width="60"  alt="Figma"/>
   <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png"  width="60"  alt="Trello" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/800px-Jira_Logo.svg.png"  width="60"  alt="Jira" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLG9-qs8xtQkO-_DAno-Shyngpq8NJp9UGA&s"  width="60"  alt="Apache Superset" />
 </div>
 
 ## About Me
@@ -67,10 +68,10 @@ Experience
 
 ## Technical Skills
 
-✅ Frontend: React, React Native, Vue.js, JavaScript, TypeScript
-✅ Backend: Node.js, Express.js, NestJS, PHP
-✅ Databases: PostgreSQL, MySQL, Firebase, MongoDB
-✅ Tools & DevOps: Prisma, Docker, Git, CI/CD, Superset
+- ✅ Frontend: React, React Native, Vue.js, JavaScript, TypeScript
+- ✅ Backend: Node.js, Express.js, NestJS, PHP
+- ✅ Databases: PostgreSQL, MySQL, Firebase, MongoDB
+- ✅ Tools & DevOps: Prisma, Docker, Git, CI/CD, Superset
 
 I believe in the power of technology to transform industries, and I’m always eager to learn, collaborate, and build innovative solutions. Let's connect and create something impactful!
 
@@ -87,10 +88,10 @@ We can connect on Socail media on these handles
 
 ## Get in Touch
 
-- Email: jumajosephat61@gmail.com.com
+- Email: jumajosephat61@gmail.com
 - Feel free to get in touch!
 
 ---
 
-Thanks for stopping by my GitHub profile! I'm excited to connect with fellow developers and collaborate on exciting projects. If you have any questions or just want to say hello, don't hesitate to reach out. Happy coding!
+Thanks for stopping by my GitHub profile! I'm excited to connect with fellow developers and collaborate on exciting projects. If you have any questions or just want to say hello, don't hesitate to reach out. Let's Innovate!
 
