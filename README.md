@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JosephatJuma&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
-
+![Monthly Contributions](https://ghchart.rshah.org/JosephatJuma)
+![Monthly Commits](https://quickchart.io/chart?c={type:'bar',data:{labels:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],datasets:[{label:'Commits',data:[10,15,8,22,12,18,5,9,20,14,7,11]}]}})
 
 ## 🛠️ Programming Languages, Technologies & Tools
 
