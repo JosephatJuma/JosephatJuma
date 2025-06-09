@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical&hide_border=true)
 [![Language Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=pie&theme=nightowl)](https://github.com/JosephatJuma)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosephatJuma&layout=compact)
 ![Monthly Contributions](https://ghchart.rshah.org/JosephatJuma)
 
 
