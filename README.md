@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-[//]: # ## 👨‍💻 About Me
+[//]: ## 👨‍💻 About Me
 [//]: # I am a passionate and results-driven Software Developer with experience in building scalable and user-friendly applications using React, React Native, Vue.js, Vanilla JS, [//]: # Node.js, Express.js, and NestJS. My backend expertise spans PostgreSQL, MySQL, MongoDB, Firebase, and PHP, leveraging Prisma ORM for efficient database management.
 
 With a strong foundation in software engineering principles, I focus on writing clean, maintainable, and testable code, adhering to SOLID principles and software design patterns. I am highly motivated, with strong problem-solving and analytical skills, and I thrive on using technology to digitize economies and solve real-world challenges.
