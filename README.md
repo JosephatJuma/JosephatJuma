@@ -13,10 +13,15 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical&hide_border=true)
 [![Language Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=pie&theme=nightowl)](https://github.com/JosephatJuma)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosephatJuma&layout=compact)
+
 ![Monthly Contributions](https://ghchart.rshah.org/JosephatJuma)
 
+### 🛠️ Languages & Tools  
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<!-- Add more icons as needed -->
 
 ## 🛠️ Programming Languages, Technologies & Tools
 
