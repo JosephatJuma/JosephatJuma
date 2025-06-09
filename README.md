@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
 ![Monthly Contributions](https://ghchart.rshah.org/JosephatJuma)
-![Monthly Commits](https://quickchart.io/chart?width=200&height=200&c={type:'bar',data:{labels:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],datasets:[{label:'Commits',data:[10,15,8,22,12,18,5,9,20,14,7,11]}]}})
+![Monthly Commits](https://quickchart.io/chart?width=200&height=100&c={type:'bar',data:{labels:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],datasets:[{label:'Commits',data:[10,15,8,22,12,18,5,9,20,14,7,11]}]}})
 
 
 ## 🛠️ Programming Languages, Technologies & Tools
