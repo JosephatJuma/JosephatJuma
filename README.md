@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JosephatJuma&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JosephatJuma&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JosephatJuma&theme=react-dark&hide_border=true&area=true)
 
 ## 🛠️ Programming Languages, Technologies & Tools
 
