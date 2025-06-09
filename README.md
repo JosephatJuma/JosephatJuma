@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-339933?style=flat-square&logo=spring-boot&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/-NPM-F24E1E?style=flat-square&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/-yarn-0052CC?style=flat-square&logo=yarn&logoColor=white)
-![Maven](https://img.shields.io/badge/-maven-0052CC?style=flat-square&logo=maven&logoColor=white)
+![YARN](https://img.shields.io/badge/-YARN-0052CC?style=flat-square&logo=yarn&logoColor=white)
+![Maven](https://img.shields.io/badge/-MAVEN-0052CC?style=flat-square&logo=maven&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
