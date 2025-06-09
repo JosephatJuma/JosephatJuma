@@ -6,13 +6,25 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 1; min-width: 300px;">
+    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical)
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
+  </div>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JosephatJuma&theme=radical)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JosephatJuma&theme=react-dark&hide_border=true&area=true)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <div style="flex: 1; min-width: 300px;">
+    ![GitHub Streak](https://streak-stats.demolab.com/?user=JosephatJuma&theme=radical)
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JosephatJuma&theme=react-dark&hide_border=true&area=true)
+  </div>
+</div>
 
 ## 🛠️ Programming Languages, Technologies & Tools
 
