@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
