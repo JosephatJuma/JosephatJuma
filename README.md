@@ -38,6 +38,10 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, Full St
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-339933?style=flat-square&logo=spring-boot&logoColor=white)
 
+![NPM](https://img.shields.io/badge/-npm-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![YARN](https://img.shields.io/badge/-yarn-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Maven](https://img.shields.io/badge/-maven-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
