@@ -47,7 +47,7 @@ Add more icons as needed -->
 
 ![NPM](https://img.shields.io/badge/-NPM-F24E1E?style=flat-square&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/-YARN-0052CC?style=flat-square&logo=yarn&logoColor=white)
-![Maven](https://img.shields.io/badge/-MAVEN-0052CC?style=flat-square&logo=maven&logoColor=white)
+![Maven](https://img.shields.io/badge/-MAVEN-0052CC?style=flat-square&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
