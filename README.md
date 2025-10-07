@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about Software Engineering, Full Stack Development. Here, you'll find some of my projects and contributions that I'm excited to share with the world.
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=josephatjuma&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=JosephatJuma&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=react-dark&hide_border=true&area=true)
 
