@@ -1,29 +1,46 @@
-# Hello, I'm Josephat Juma! 👋
+# Hi there, I'm Josephat Juma! 👋
 
 ![Josephat Profile Banner](https://github.com/user-attachments/assets/b7cc4245-d60a-4160-aee4-9815a3809722)
 
-Welcome to my GitHub profile! I'm passionate about Software Engineering, Full Stack Development. Here, you'll find some of my projects and contributions that I'm excited to share with the world.
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Software Engineer** with expertise in building scalable web and mobile applications. I love crafting elegant solutions to complex problems and constantly exploring new technologies to stay at the cutting edge of software development.
+
+- 🔭 Currently working on full-stack applications using modern frameworks
+- 🌱 Always learning and improving my craft
+- 👯 Open to collaborating on innovative open-source projects
+- 💬 Ask me about React, Node.js, Java, or anything tech-related
+
+## ⚡ When I'm Not Coding
+
+- ♟️ **Chess** - Strategic thinking on and off the board
+- ☕ **Coffee** - Fueling my code one cup at a time
+- ✈️ **Travel** - Exploring new places and cultures
+- 💻 **Coding** - Yes, it's both work and hobby!
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=JosephatJuma&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephatJuma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=JosephatJuma&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JosephatJuma&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical)
-![Monthly Contributions](https://ghchart.rshah.org/JosephatJuma)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
-<!--  ### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephatJuma&theme=tokyonight" alt="Profile Summary" />
+</p>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-Add more icons as needed -->
+## 🛠️ Tech Stack
 
-## 🛠️ Programming Languages, Technologies & Tools
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,6 +48,8 @@ Add more icons as needed -->
 ![JAVA](https://img.shields.io/badge/-JAVA-777BB4?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -42,15 +61,21 @@ Add more icons as needed -->
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-02303A?style=flat-square&logo=expo&logoColor=white)
 
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-339933?style=flat-square&logo=spring-boot&logoColor=white)
 
+**Package Managers & Build Tools**
+
 ![NPM](https://img.shields.io/badge/-NPM-F24E1E?style=flat-square&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/-YARN-0052CC?style=flat-square&logo=yarn&logoColor=white)
 ![Maven](https://img.shields.io/badge/-MAVEN-0052CC?style=flat-square&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -59,15 +84,21 @@ Add more icons as needed -->
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+**DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
+**Cloud Platforms**
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Design & Project Management**
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
@@ -77,12 +108,16 @@ Add more icons as needed -->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephat-juma-79515521b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuJosephat)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosephatJuma)
-
-## 📫 Get in Touch
-- 📧 Email: jumajosephat61@gmail.com
-- 💬 Feel free to reach out for collaborations or just to say hi!
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumajosephat61@gmail.com)
 
 ---
 
-Thanks for stopping by my GitHub profile! I'm excited to connect with fellow developers and collaborate on exciting projects. If you have any questions or just want to say hello, don't hesitate to reach out. Let's Innovate! 🚀
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=JosephatJuma&label=Profile%20views&color=0e75b6&style=flat)
+
+💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+
+Thanks for visiting! Feel free to reach out for collaborations or just to chat about tech, chess, or the best coffee spots! ☕♟️✈️
+
+</div>
