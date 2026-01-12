@@ -21,17 +21,18 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephatJuma&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/JosephatJuma">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical&langs_count=8"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JosephatJuma&theme=radical" alt="Commit Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephatJuma&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=redical&bg_color=0d1117&color=FF4458&line=FF4458&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
