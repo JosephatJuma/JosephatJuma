@@ -21,21 +21,21 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephatJuma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JosephatJuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephatJuma&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JosephatJuma&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephatJuma&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JosephatJuma&theme=radical" alt="Commit Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephatJuma&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephatJuma&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephatJuma&theme=radical" alt="Profile Summary" />
 </p>
 
 ## 🛠️ Tech Stack
